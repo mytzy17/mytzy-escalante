@@ -1,4 +1,4 @@
 # mytzy-escalante
 🌻PERSONAL WEBSITE 🌻
 
-Created my own personal website with GitHub Pages.
+Created my own personal website with GitHub Pages + Bootstreap
